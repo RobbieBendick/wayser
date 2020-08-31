@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RobbieBendick/wayser/static/css/main.97f4b8a0.chunk.css",
+    "main.js": "/RobbieBendick/wayser/static/js/main.3ae9def1.chunk.js",
+    "main.js.map": "/RobbieBendick/wayser/static/js/main.3ae9def1.chunk.js.map",
+    "runtime-main.js": "/RobbieBendick/wayser/static/js/runtime-main.6aa61b6d.js",
+    "runtime-main.js.map": "/RobbieBendick/wayser/static/js/runtime-main.6aa61b6d.js.map",
+    "static/js/2.64aa735d.chunk.js": "/RobbieBendick/wayser/static/js/2.64aa735d.chunk.js",
+    "static/js/2.64aa735d.chunk.js.map": "/RobbieBendick/wayser/static/js/2.64aa735d.chunk.js.map",
+    "index.html": "/RobbieBendick/wayser/index.html",
+    "precache-manifest.b88e8d5c9a2fc6a2abc18a353b9cab00.js": "/RobbieBendick/wayser/precache-manifest.b88e8d5c9a2fc6a2abc18a353b9cab00.js",
+    "service-worker.js": "/RobbieBendick/wayser/service-worker.js",
+    "static/css/main.97f4b8a0.chunk.css.map": "/RobbieBendick/wayser/static/css/main.97f4b8a0.chunk.css.map",
+    "static/js/2.64aa735d.chunk.js.LICENSE.txt": "/RobbieBendick/wayser/static/js/2.64aa735d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa61b6d.js",
+    "static/js/2.64aa735d.chunk.js",
+    "static/css/main.97f4b8a0.chunk.css",
+    "static/js/main.3ae9def1.chunk.js"
+  ]
+}
