@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wayser/static/css/main.97f4b8a0.chunk.css",
-    "main.js": "/wayser/static/js/main.97426018.chunk.js",
-    "main.js.map": "/wayser/static/js/main.97426018.chunk.js.map",
+    "main.js": "/wayser/static/js/main.ad0a3d54.chunk.js",
+    "main.js.map": "/wayser/static/js/main.ad0a3d54.chunk.js.map",
     "runtime-main.js": "/wayser/static/js/runtime-main.0a00b27f.js",
     "runtime-main.js.map": "/wayser/static/js/runtime-main.0a00b27f.js.map",
     "static/js/2.64aa735d.chunk.js": "/wayser/static/js/2.64aa735d.chunk.js",
     "static/js/2.64aa735d.chunk.js.map": "/wayser/static/js/2.64aa735d.chunk.js.map",
     "index.html": "/wayser/index.html",
-    "precache-manifest.5941a6e2021a9140bd56e1be622cf7f1.js": "/wayser/precache-manifest.5941a6e2021a9140bd56e1be622cf7f1.js",
+    "precache-manifest.8fc292f68dc6ae8742d00305cfd66399.js": "/wayser/precache-manifest.8fc292f68dc6ae8742d00305cfd66399.js",
     "service-worker.js": "/wayser/service-worker.js",
     "static/css/main.97f4b8a0.chunk.css.map": "/wayser/static/css/main.97f4b8a0.chunk.css.map",
     "static/js/2.64aa735d.chunk.js.LICENSE.txt": "/wayser/static/js/2.64aa735d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0a00b27f.js",
     "static/js/2.64aa735d.chunk.js",
     "static/css/main.97f4b8a0.chunk.css",
-    "static/js/main.97426018.chunk.js"
+    "static/js/main.ad0a3d54.chunk.js"
   ]
 }
